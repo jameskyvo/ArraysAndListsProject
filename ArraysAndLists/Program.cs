@@ -41,12 +41,12 @@ namespace ArraysAndLists
                 }
             }
 
-            Console.WriteLine("Displaying even numbers!");
+            Console.WriteLine("\nDisplaying even numbers!");
             for (int i = 0; i < evens.Length; i++) 
             { 
                 Console.WriteLine(evens[i]); 
             }
-            Console.WriteLine("Displaying odd numbers!");
+            Console.WriteLine("\nDisplaying odd numbers!");
             for (int i = 0; i < odds.Length; i++)
             {
                 Console.WriteLine(odds[i]);
